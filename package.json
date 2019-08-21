@@ -1,0 +1,17 @@
+{
+  "name": "tct-warframe",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "homepage": "https://tct-gaming.github.com/tct-gaming",
+  "scripts": {
+    "deploy": "gh-pages -d dist",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "gh-pages": "^2.1.1"
+  }
+}
