@@ -10,7 +10,7 @@
   "scripts": {
     "start": "gatsby develop",
     "build": "gatsby build --prefix-paths",
-    "_predeploy": "npm un build",
+    "predeploy": "gatsby build --prefix-paths",
     "deploy": "gh-pages -d public"
   },
   "dependencies": {
