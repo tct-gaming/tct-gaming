@@ -9,9 +9,9 @@
   "homepage": "https://tct-gaming.github.io/warframe-wiki",
   "scripts": {
     "start": "gatsby develop",
-    "predeploy": "gh-pages -d dist",
-    "deploy": "gh-pages -d dist",
-    "build": "gatsby build --prefix-paths"
+    "build": "gatsby build --prefix-paths",
+    "predeploy": "npm build",
+    "deploy": "gh-pages -d public"
   },
   "dependencies": {
     "@babel/plugin-proposal-export-default-from": "^7.5.2",
