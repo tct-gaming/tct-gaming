@@ -6,7 +6,7 @@
   "version": "0.0.1",
   "license": "MIT",
   "main": "n/a",
-  "homepage": "https://tct-gaming.github.io/warframe-wiki",
+  "homepage": "https://tct-gaming.github.io",
   "scripts": {
     "start": "gatsby develop",
     "build": "gatsby build --prefix-paths",
