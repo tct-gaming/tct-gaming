@@ -1,6 +1,7 @@
 const config = {
 	"gatsby": {
-		"pathPrefix": "/",
+		// tct-gaming.github.io
+		"pathPrefix": "/warframe-wiki",
 		"siteUrl": "https://tct-gaming.github.io/",
 		"gaTrackingId": null
 	},
