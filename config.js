@@ -1,7 +1,7 @@
 const config = {
 	"gatsby": {
 		"pathPrefix": "/",
-		"siteUrl": "https://learn.hasura.io",
+		"siteUrl": "https://tct-gaming.github.io/",
 		"gaTrackingId": null
 	},
 	"header": {
