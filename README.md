@@ -18,3 +18,10 @@
 * How to spend money
 * Farming guide
 * Guide to how to add content
+
+# TODO
+* Start ignoring the public folder
+* Can I move the `gatsby` config to a `config` folder?
+* Remove semicolons, yuck
+* Implicit returns on all the functional components
+* Make sure inline images work for markdown content so I don't have to get them from imgur.
