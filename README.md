@@ -7,6 +7,11 @@
     * https://reactcommunity.org/react-tabs/
 * Better sidebard building conventions
 * Namespaces so it's easy to add stuff (or convention)
+* Documentation Repo
+  * On how to add content to this
+  * Integrate Travis CI so that it builds.
+  * Create documentation on how to do all of this
+  * Documentation on how to run this locally
 
 # Future content includes
 * Player guides (how to play frames et al)
