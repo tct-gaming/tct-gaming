@@ -11,7 +11,7 @@
     "start": "gatsby develop",
     "build": "gatsby build --prefix-paths",
     "predeploy": "gatsby build --prefix-paths",
-    "deploy": "gh-pages -d public"
+    "deploy": "gh-pages -b master -d public -r https://github.com/tct-gaming/tct-gaming.github.io"
   },
   "dependencies": {
     "@babel/plugin-proposal-export-default-from": "^7.5.2",
